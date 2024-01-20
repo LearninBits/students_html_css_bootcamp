@@ -21,7 +21,7 @@ Our HTML & CSS Bootcamp is designed to take you from a beginner to a proficient 
 ## Repository Structure
 
 - `tutorials/`: Contains step-by-step guides and tutorial documents.
-- - `course_materials/`: Contains reading materials for learners.
+- `course_materials/`: Contains reading materials for learners.
 - `knowledge_checks/`: Exercise files for hands-on practice.
 - `projects/`: Starter files and resources for the project work.
 - `solutions/`: Sample solutions for exercises and projects (access restricted to instructors).
